@@ -1,0 +1,1023 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Long Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-29 08:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: addons/importer/includes/helper-functions.php:78
+#, php-format
+msgid "\"content_url\" for %s%s%s are not defined!"
+msgstr ""
+
+#: addons/importer/templates/upload.php:23
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:192
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: addons/importer/templates/upload.php:79
+#: addons/importer/templates/upload.php:93
+msgid "(optional)"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:66
+msgid "1.4em"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:75
+msgid "14px"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:83
+msgid "1px"
+msgstr ""
+
+#: includes/class-long-toolkit-menu.php:77
+msgid "<strong>Repeater field</strong> was not supported in menu item."
+msgstr ""
+
+#: sample/post-meta.php:188 sample/post-meta.php:452
+msgid "A cool date."
+msgstr ""
+
+#: sample/post-meta.php:181 sample/post-meta.php:445 sample/taxonomy.php:221
+msgid "A cool datetime."
+msgstr ""
+
+#: sample/post-meta.php:168 sample/post-meta.php:432 sample/taxonomy.php:208
+msgid "A short description"
+msgstr ""
+
+#: sample/post-meta.php:100 sample/post-meta.php:353 sample/taxonomy.php:140
+msgid "A short description for Checkbox multiple"
+msgstr ""
+
+#: sample/post-meta.php:122 sample/post-meta.php:378 sample/taxonomy.php:162
+msgid "A short description for Color Picker"
+msgstr ""
+
+#: sample/customizer.php:314 sample/post-meta.php:129 sample/post-meta.php:393
+#: sample/post-meta.php:559 sample/taxonomy.php:169
+msgid "A short description for Image Picker"
+msgstr ""
+
+#: sample/post-meta.php:136 sample/post-meta.php:400 sample/post-meta.php:566
+#: sample/taxonomy.php:176
+msgid "A short description for Image Picker with multiple is true"
+msgstr ""
+
+#: sample/post-meta.php:299 sample/taxonomy.php:91
+msgid "A short description for Mutilple Text Field"
+msgstr ""
+
+#: sample/customizer.php:183 sample/customizer.php:204 sample/post-meta.php:40
+#: sample/post-meta.php:263 sample/post-meta.php:509 sample/taxonomy.php:54
+msgid "A short description for Select box"
+msgstr ""
+
+#: sample/customizer.php:217 sample/post-meta.php:74 sample/post-meta.php:315
+#: sample/post-meta.php:543 sample/taxonomy.php:107
+msgid "A short description for Select Multiple"
+msgstr ""
+
+#: sample/post-meta.php:23 sample/post-meta.php:331 sample/taxonomy.php:123
+msgid "A short description for single Checkbox"
+msgstr ""
+
+#: sample/post-meta.php:65 sample/post-meta.php:288 sample/post-meta.php:534
+#: sample/taxonomy.php:79
+msgid "A short description for Text Area"
+msgstr ""
+
+#: sample/post-meta.php:481
+msgid "A short description for Text Area Html"
+msgstr ""
+
+#: sample/post-meta.php:54 sample/post-meta.php:277 sample/post-meta.php:523
+#: sample/taxonomy.php:68
+msgid "A short description for Text Field"
+msgstr ""
+
+#: sample/customizer.php:197
+msgid "A short description for textarea"
+msgstr ""
+
+#: sample/customizer.php:190
+msgid "A short description for textfield"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:99
+msgid "Add File"
+msgstr ""
+
+#: includes/admin-fields/field_image_picker.php:76
+msgid "Add images"
+msgstr ""
+
+#: includes/admin-fields/field_default.php:99
+msgid "Add new"
+msgstr ""
+
+#: sample/customizer.php:166 sample/post-meta.php:30 sample/taxonomy.php:44
+msgid "Ajax select"
+msgstr ""
+
+#: sample/post-meta.php:236
+msgid "Ajax select dynamic data"
+msgstr ""
+
+#: addons/importer/templates/available.php:22
+#: addons/importer/templates/upload.php:33
+msgid ""
+"All image data will be fetched and it may also takes a few minutes to import."
+msgstr ""
+
+#: addons/importer/templates/available.php:20
+#: addons/importer/templates/upload.php:31
+msgid ""
+"All the current data wont't be lost, all content will be assign to an admin "
+"user."
+msgstr ""
+
+#: addons/importer/includes/class-importer-downloader.php:74
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:332
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:149
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: sample/customizer.php:132 sample/customizer.php:210
+#: sample/customizer.php:224 sample/customizer.php:251
+#: sample/customizer.php:266 sample/post-meta.php:46 sample/post-meta.php:81
+#: sample/post-meta.php:98 sample/post-meta.php:112 sample/post-meta.php:269
+#: sample/post-meta.php:322 sample/post-meta.php:351 sample/post-meta.php:368
+#: sample/post-meta.php:515 sample/post-meta.php:550 sample/taxonomy.php:60
+#: sample/taxonomy.php:114 sample/taxonomy.php:138 sample/taxonomy.php:152
+msgid "Anthony Perkins"
+msgstr ""
+
+#: sample/customizer.php:164 sample/post-meta.php:28 sample/post-meta.php:234
+#: sample/taxonomy.php:42
+msgid "Autocomplete"
+msgstr ""
+
+#: sample/post-meta.php:244
+msgid "Autocomplete with static data"
+msgstr ""
+
+#: addons/importer/templates/available.php:12
+msgid "Available Imports"
+msgstr ""
+
+#: addons/importer/templates/upload.php:16
+msgid "Available imports"
+msgstr ""
+
+#: addons/importer/templates/available.php:19
+#: addons/importer/templates/upload.php:30
+msgid "Backup data before import for safety."
+msgstr ""
+
+#: addons/importer/templates/available.php:21
+#: addons/importer/templates/upload.php:32
+msgid ""
+"Before you begin, make sure all the <strong>required plugins</strong> are "
+"activated."
+msgstr ""
+
+#: addons/importer/templates/upload.php:48
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:242
+msgid "Bold 700"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:243
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:232
+msgid "Book 300"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:233
+msgid "Book 300 Italic"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:94
+msgid "Capitalize"
+msgstr ""
+
+#: sample/customizer.php:131 sample/customizer.php:209
+#: sample/customizer.php:223 sample/customizer.php:250
+#: sample/customizer.php:265 sample/post-meta.php:45 sample/post-meta.php:80
+#: sample/post-meta.php:97 sample/post-meta.php:111 sample/post-meta.php:268
+#: sample/post-meta.php:321 sample/post-meta.php:350 sample/post-meta.php:514
+#: sample/post-meta.php:549 sample/taxonomy.php:59 sample/taxonomy.php:113
+#: sample/taxonomy.php:137 sample/taxonomy.php:151
+msgid "Charles Wheeler"
+msgstr ""
+
+#: sample/customizer.php:125
+msgid "Check list"
+msgstr ""
+
+#: sample/customizer.php:233
+msgid "Checkbox"
+msgstr ""
+
+#: sample/post-meta.php:114 sample/post-meta.php:370 sample/taxonomy.php:154
+msgid "Checkbox multiple description"
+msgstr ""
+
+#: sample/customizer.php:243 sample/post-meta.php:89 sample/post-meta.php:342
+#: sample/taxonomy.php:129
+msgid "Checkbox multiple:"
+msgstr ""
+
+#: sample/post-meta.php:21 sample/post-meta.php:329 sample/taxonomy.php:121
+msgid "Checkbox:"
+msgstr ""
+
+#: addons/importer/templates/upload.php:96
+msgid "Choose a Customize (.dat) file to upload."
+msgstr ""
+
+#: addons/importer/templates/upload.php:82
+msgid "Choose a Widget (.json, .wie) file to upload."
+msgstr ""
+
+#: addons/importer/templates/upload.php:69
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:90
+msgid "Choose file"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:90
+msgid "Choose&nbsp;file"
+msgstr ""
+
+#: sample/customizer.php:301
+msgid "Color Picker:"
+msgstr ""
+
+#: sample/post-meta.php:120 sample/post-meta.php:376 sample/taxonomy.php:160
+msgid "Color:"
+msgstr ""
+
+#: addons/importer/importer.php:286
+msgid "Config Data..."
+msgstr ""
+
+#: addons/importer/templates/upload.php:65
+msgid "Content Import"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create Admin fields, metabox, widget, taxonomy, menu meta, customizer fields "
+"quickly and friendly."
+msgstr ""
+
+#: sample/customizer.php:319
+msgid "Cropped Image:"
+msgstr ""
+
+#: sample/post-meta.php:173 sample/post-meta.php:437 sample/taxonomy.php:213
+msgid "Custom Link"
+msgstr ""
+
+#: addons/importer/includes/class-importer-customizer.php:39
+msgid "Customize file could not be found."
+msgstr ""
+
+#: addons/importer/templates/upload.php:92
+msgid "Customizer Import"
+msgstr ""
+
+#: sample/post-meta.php:187 sample/post-meta.php:451
+msgid "Date"
+msgstr ""
+
+#: sample/post-meta.php:180 sample/post-meta.php:444 sample/taxonomy.php:220
+msgid "Datetime"
+msgstr ""
+
+#: sample/customizer.php:339
+msgid "Datetime:"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:91
+msgid "Delete"
+msgstr ""
+
+#: sample/widget.php:35
+msgid "Display the sample fields in the sidebar."
+msgstr ""
+
+#: sample/customizer.php:129 sample/customizer.php:207
+#: sample/customizer.php:221 sample/customizer.php:248
+#: sample/customizer.php:263 sample/post-meta.php:78 sample/post-meta.php:95
+#: sample/post-meta.php:109 sample/post-meta.php:319 sample/post-meta.php:348
+#: sample/post-meta.php:365 sample/post-meta.php:547 sample/taxonomy.php:111
+#: sample/taxonomy.php:135 sample/taxonomy.php:149
+msgid "Donna Delgado"
+msgstr ""
+
+#: sample/post-meta.php:200 sample/post-meta.php:487 sample/taxonomy.php:244
+msgid ""
+"Drag the pin to manually set listing coordinates. Now very easy to save a "
+"latlng and zoom settings from user. "
+msgstr ""
+
+#: includes/admin-fields/field_repeater.php:96
+msgid "Edit"
+msgstr ""
+
+#: includes/class-long-toolkit-metabox.php:162
+#: includes/class-long-toolkit-taxonomy.php:252
+msgid "Enable"
+msgstr ""
+
+#: sample/customizer.php:168 sample/post-meta.php:32 sample/post-meta.php:238
+#: sample/post-meta.php:254 sample/taxonomy.php:46
+msgid "Enter 3 or more characters to search..."
+msgstr ""
+
+#: sample/customizer.php:334
+msgid "Enter a link:"
+msgstr ""
+
+#: sample/customizer.php:130 sample/customizer.php:208
+#: sample/customizer.php:222 sample/customizer.php:249
+#: sample/customizer.php:264 sample/post-meta.php:79 sample/post-meta.php:96
+#: sample/post-meta.php:110 sample/post-meta.php:320 sample/post-meta.php:349
+#: sample/post-meta.php:366 sample/post-meta.php:548 sample/taxonomy.php:112
+#: sample/taxonomy.php:136 sample/taxonomy.php:150
+msgid "Eric Austin"
+msgstr ""
+
+#: addons/importer/includes/class-importer-customizer.php:52
+#: addons/importer/includes/class-importer-customizer.php:56
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+
+#: addons/importer/includes/class-importer-customizer.php:60
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:244
+#: includes/class-long-toolkit-fonts.php:245
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:246
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:86
+msgid "File name"
+msgstr ""
+
+#: sample/post-meta.php:471 sample/taxonomy.php:235
+msgid "File upload Audio"
+msgstr ""
+
+#: sample/post-meta.php:463 sample/taxonomy.php:227
+msgid "File upload multiple JPEG, PNG"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:77
+msgid "File URL"
+msgstr ""
+
+#: addons/importer/importer.php:293
+msgid "Finish"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:46
+msgid "Font Family"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:73
+msgid "Font Size"
+msgstr ""
+
+#: includes/class-long-toolkit-metabox.php:216
+#: includes/class-long-toolkit-taxonomy.php:215
+msgid "General"
+msgstr ""
+
+#: sample/customizer.php:329
+msgid "Google map:"
+msgstr ""
+
+#: sample/taxonomy.php:35
+msgid "Group label"
+msgstr ""
+
+#. Author of the plugin
+msgid "HQL"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hoangquoclong.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/long-toolkit/"
+msgstr ""
+
+#: sample/customizer.php:307 sample/post-meta.php:167 sample/post-meta.php:431
+#: sample/taxonomy.php:207
+msgid "Icon Picker"
+msgstr ""
+
+#: sample/customizer.php:276 sample/post-meta.php:142 sample/post-meta.php:406
+#: sample/taxonomy.php:182
+msgid "Image Inline:"
+msgstr ""
+
+#: sample/customizer.php:289 sample/post-meta.php:155 sample/post-meta.php:419
+#: sample/taxonomy.php:195
+msgid "Image Vertical:"
+msgstr ""
+
+#: addons/importer/importer.php:115 addons/importer/templates/available.php:45
+msgid "Import"
+msgstr ""
+
+#: addons/importer/importer.php:83
+#, php-format
+msgid ""
+"Import customizer from <a target=\"_blank\" href=\"//wordpress."
+"org/plugins/customizer-export-import/\">Customizer Export/Import</a>, import "
+"widgets from <a target=\"_blank\" href=\"//wordpress.org/plugins/widget-"
+"importer-exporter/\">Widget Importer & Exporter</a> and import posts, pages, "
+"comments, custom fields, categories, and tags from a <a href=\"%s\" "
+"target=\"_blank\">WordPress export</a>."
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:205
+msgid "Imported"
+msgstr ""
+
+#: addons/importer/importer.php:295
+msgid "Imported Successfully"
+msgstr ""
+
+#: addons/importer/templates/available.php:111
+#: addons/importer/templates/upload.php:115
+msgid "Imported successfully"
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:208
+msgid "Imported to Inactive"
+msgstr ""
+
+#: addons/importer/templates/available.php:41
+msgid "Imported: "
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:97
+msgid "Initial"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:90
+msgid "Insert file URL"
+msgstr ""
+
+#: addons/importer/importer.php:233
+msgid "Installing Content..."
+msgstr ""
+
+#: addons/importer/importer.php:282
+msgid "Installing Customizer..."
+msgstr ""
+
+#: addons/importer/importer.php:259
+msgid "Installing Widgets..."
+msgstr ""
+
+#: sample/post-meta.php:474 sample/taxonomy.php:238
+msgid "Just show audio"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:81
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:230
+msgid "Light 200"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:231
+msgid "Light 200 Italic"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:64
+msgid "Light Height"
+msgstr ""
+
+#: includes/admin-fields/field_link.php:73
+msgid "Link Text:"
+msgstr ""
+
+#: addons/importer/templates/available.php:60
+msgid "Live Preview"
+msgstr ""
+
+#. Name of the plugin
+msgid "Long Toolkit"
+msgstr ""
+
+#: sample/customizer.php:159
+msgid "Long_Toolkit CONTROLS"
+msgstr ""
+
+#: sample/widget.php:37
+msgid "Long_Toolkit Example Fields"
+msgstr ""
+
+#: includes/class-long-toolkit-metabox.php:55
+msgid "Long_Toolkit Metabox"
+msgstr ""
+
+#: sample/customizer.php:22
+msgid "Long_Toolkit PANEL"
+msgstr ""
+
+#: includes/class-long-toolkit-taxonomy.php:66
+msgid "Long_Toolkit Termbox"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:96
+msgid "Lowercase"
+msgstr ""
+
+#: addons/importer/importer.php:83
+msgid "LT Importer"
+msgstr ""
+
+#: addons/importer/templates/upload.php:15
+msgid "Manually import"
+msgstr ""
+
+#: addons/importer/templates/upload.php:34
+#, php-format
+msgid "Maximum size for each file: %s"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:237
+msgid "Medium 500"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:238
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: sample/post-meta.php:225
+msgid "Metabox"
+msgstr ""
+
+#: addons/importer/includes/class-importer-downloader.php:56
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: sample/post-meta.php:135 sample/post-meta.php:399 sample/post-meta.php:565
+#: sample/taxonomy.php:175
+msgid "Multi Image:"
+msgstr ""
+
+#: sample/post-meta.php:308 sample/taxonomy.php:100
+msgid "Multi textfield with default values"
+msgstr ""
+
+#: sample/post-meta.php:306 sample/taxonomy.php:98
+msgid "Mutilple Text field 2:"
+msgstr ""
+
+#: sample/post-meta.php:297 sample/taxonomy.php:89
+msgid "Mutilple Text field:"
+msgstr ""
+
+#: sample/customizer.php:23
+msgid "My Description"
+msgstr ""
+
+#: includes/admin-fields/field_upload.php:76
+msgid "Name"
+msgstr ""
+
+#: includes/admin-fields/field_icon_picker.php:66
+msgid "No icon"
+msgstr ""
+
+#: addons/importer/importer.php:165
+msgid "No import files specified!"
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:214
+msgid "No Title"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:93
+msgid "None"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:234
+#: includes/class-long-toolkit-fonts.php:235
+msgid "Normal 400"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:236
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: sample/post-meta.php:249
+msgid "Option 1"
+msgstr ""
+
+#: sample/post-meta.php:250
+msgid "Option 2"
+msgstr ""
+
+#: sample/post-meta.php:251
+msgid "Option 3"
+msgstr ""
+
+#: sample/post-meta.php:252
+msgid "Option 4"
+msgstr ""
+
+#: includes/admin-fields/field_autocomplete.php:57
+#, php-format
+msgid "Please enter %d or more characters"
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:247
+msgid "Please upload DAT file for customizer import."
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:236
+msgid "Please upload WIE or JSON file for widget import."
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:225
+msgid "Please upload XML file for content import."
+msgstr ""
+
+#: sample/customizer.php:260 sample/post-meta.php:105 sample/post-meta.php:361
+#: sample/taxonomy.php:145
+msgid "Radio multiple:"
+msgstr ""
+
+#: addons/importer/importer.php:116 addons/importer/templates/available.php:49
+msgid "Re-Import"
+msgstr ""
+
+#: includes/admin-fields/field_default.php:82
+#: includes/admin-fields/field_default.php:91
+#: includes/admin-fields/field_default.php:91
+#: includes/admin-fields/field_image_picker.php:66
+#: includes/admin-fields/field_repeater.php:97
+msgid "Remove"
+msgstr ""
+
+#: sample/customizer.php:350 sample/post-meta.php:216 sample/post-meta.php:494
+#: sample/taxonomy.php:23 sample/taxonomy.php:251 sample/widget.php:25
+msgid "Repeater"
+msgstr ""
+
+#: sample/post-meta.php:501
+msgid "Repeater 2"
+msgstr ""
+
+#: sample/post-meta.php:199 sample/post-meta.php:486 sample/taxonomy.php:243
+msgid "Search map location"
+msgstr ""
+
+#: sample/customizer.php:31
+msgid "SECTION I"
+msgstr ""
+
+#: sample/customizer.php:53
+msgid "SECTION II"
+msgstr ""
+
+#: sample/customizer.php:70
+msgid "SECTION III"
+msgstr ""
+
+#: sample/customizer.php:92
+msgid "SECTION IV"
+msgstr ""
+
+#: sample/post-meta.php:265 sample/post-meta.php:511 sample/taxonomy.php:56
+msgid "Select ..."
+msgstr ""
+
+#: sample/customizer.php:216 sample/post-meta.php:73 sample/post-meta.php:314
+#: sample/post-meta.php:542 sample/taxonomy.php:106
+msgid "Select multiple:"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:57
+msgid "Select Subsets..."
+msgstr ""
+
+#: includes/admin-fields/field_link.php:71
+msgid "Select URL"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:52
+msgid "Select Variants..."
+msgstr ""
+
+#: sample/post-meta.php:42
+msgid "Select..."
+msgstr ""
+
+#: sample/customizer.php:202 sample/post-meta.php:38 sample/post-meta.php:261
+#: sample/post-meta.php:507 sample/taxonomy.php:52
+msgid "Select:"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:239
+#: includes/class-long-toolkit-fonts.php:240
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:241
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: includes/admin-fields/field_default.php:83
+#: includes/admin-fields/field_default.php:92
+#: includes/admin-fields/field_default.php:92
+msgid "Short"
+msgstr ""
+
+#: sample/post-meta.php:367
+msgid "Show Color picker"
+msgstr ""
+
+#: sample/post-meta.php:466 sample/taxonomy.php:230
+msgid ""
+"Show image jpeg and audio, note: leave empty in field settings to show all "
+"mime types."
+msgstr ""
+
+#: sample/post-meta.php:580
+msgid "Show on front page"
+msgstr ""
+
+#: sample/post-meta.php:609
+msgid "Show on template name Contact Page"
+msgstr ""
+
+#: sample/post-meta.php:267 sample/post-meta.php:513 sample/taxonomy.php:58
+msgid "Show Text area"
+msgstr ""
+
+#: sample/post-meta.php:597 sample/post-meta.php:626
+msgid "Show text area on front page"
+msgstr ""
+
+#: sample/post-meta.php:43 sample/post-meta.php:266 sample/post-meta.php:512
+#: sample/taxonomy.php:57
+msgid "Show Text field"
+msgstr ""
+
+#: sample/post-meta.php:590 sample/post-meta.php:619
+msgid "Show text field on front page"
+msgstr ""
+
+#: sample/post-meta.php:44
+msgid "Show Textarea"
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:117
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: sample/customizer.php:115
+msgid "Single Checkbox"
+msgstr ""
+
+#: sample/customizer.php:313 sample/post-meta.php:128 sample/post-meta.php:392
+#: sample/post-meta.php:558 sample/taxonomy.php:168
+msgid "Single Image:"
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:139
+msgid "Site does not support widget"
+msgstr ""
+
+#: sample/post-meta.php:246
+msgid "Static data"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:56
+msgid "Subsets"
+msgstr ""
+
+#: sample/customizer.php:41 sample/customizer.php:63 sample/customizer.php:80
+#: sample/customizer.php:109
+msgid "Text Area"
+msgstr ""
+
+#: sample/post-meta.php:595 sample/post-meta.php:624
+msgid "Text area"
+msgstr ""
+
+#: sample/post-meta.php:479
+msgid "Text Area Html:"
+msgstr ""
+
+#: sample/customizer.php:195 sample/post-meta.php:63 sample/post-meta.php:286
+#: sample/post-meta.php:532 sample/taxonomy.php:77
+msgid "Text Area:"
+msgstr ""
+
+#: sample/post-meta.php:588 sample/post-meta.php:617
+msgid "Text field"
+msgstr ""
+
+#: sample/customizer.php:188 sample/post-meta.php:52 sample/post-meta.php:275
+#: sample/post-meta.php:521 sample/taxonomy.php:66
+msgid "Text field:"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:89
+msgid "Text Transform"
+msgstr ""
+
+#: addons/importer/importer.php:341
+msgid ""
+"The DAT file containing the dummy content is not available or could not be "
+"read ...<br/>"
+msgstr ""
+
+#: lt-framework.php:320
+msgid "The selected file has an invalid mimetype in this field."
+msgstr ""
+
+#: addons/importer/importer.php:326
+msgid ""
+"The WIE file containing the dummy content is not available or could not be "
+"read ...<br/>"
+msgstr ""
+
+#: addons/importer/importer.php:309
+msgid ""
+"The XML file containing the dummy content is not available or could not be "
+"read .. You might want to try to set the file permission to chmod 755.<br/>"
+"If this doesn't work please use the Wordpress importer and import the XML "
+"file (should be located in your download .zip: Sample Content folder) "
+"manually "
+msgstr ""
+
+#: addons/importer/importer.php:366
+msgid "Theme Unit Test"
+msgstr ""
+
+#: sample/customizer.php:277 sample/post-meta.php:143 sample/post-meta.php:407
+#: sample/taxonomy.php:183
+msgid "This is a demo for sidebar layout."
+msgstr ""
+
+#: sample/customizer.php:290 sample/post-meta.php:156 sample/post-meta.php:420
+#: sample/taxonomy.php:196
+msgid "This is a demo for vertical image options."
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:315
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: sample/customizer.php:174
+msgid "Typography:"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:247
+#: includes/class-long-toolkit-fonts.php:248
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:249
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:227
+#: includes/class-long-toolkit-fonts.php:228
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: includes/class-long-toolkit-fonts.php:229
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: addons/importer/templates/upload.php:104
+msgid "Update files and import"
+msgstr ""
+
+#: sample/customizer.php:324
+msgid "Upload Field:"
+msgstr ""
+
+#: addons/importer/templates/available.php:14
+#: addons/importer/templates/available.php:102
+msgid "Upload import files"
+msgstr ""
+
+#: addons/importer/templates/upload.php:68
+msgid ""
+"Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the "
+"posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:95
+msgid "Uppercase"
+msgstr ""
+
+#: includes/admin-fields/field_link.php:77
+msgid "URL:"
+msgstr ""
+
+#: addons/importer/templates/available.php:68
+msgid "Use Placeholder Image"
+msgstr ""
+
+#: includes/admin-fields/field_typography.php:51
+msgid "Variants"
+msgstr ""
+
+#: sample/post-meta.php:174 sample/post-meta.php:438 sample/taxonomy.php:214
+msgid "We have a custom Link very friendly and easy to use."
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:161
+msgid "Widget already exists"
+msgstr ""
+
+#: addons/importer/templates/upload.php:78
+msgid "Widget Import"
+msgstr ""
+
+#: addons/importer/includes/class-importer-widgets.php:53
+msgid "Widget Import file could not be found."
+msgstr ""
+
+#: addons/importer/importer.php:374
+msgid "WooCommerce Data"
+msgstr ""
+
+#: addons/importer/includes/helper-functions.php:339
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
